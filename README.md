@@ -4,6 +4,6 @@ This GitHub repository shows how I build my Sentiment Analyzer app step by step.
 
 This app was created using Google Colab, Python and Streamlit. 
 
-You can "Spotify.csv" and "movie_reviews.csv" to test the app.
+You can use "Spotify.csv" and "movie_reviews.csv" to test the app. You can find both of these csv files in "Releases" section for download and testing.
 
 * Web App password --> nlp_analyzer
