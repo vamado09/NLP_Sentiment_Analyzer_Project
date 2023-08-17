@@ -1,12 +1,6 @@
-# NLP - Sentiment Analyzer Project
+This NLP GitHub repository presents the systematic development process of our Sentiment Analyzer app, chronicling each step taken. Our app incorporates an array of supervised and unsupervised models, including TextBlob, VADER, Logistic Regression, Support Vector Machine, Gradient Boosting, and Random Forest, offering a comprehensive sentiment prediction capability. Moreover, users can seamlessly perform tasks such as importing, analyzing, and downloading CSV files that contain sentiment data and performance metrics, fostering a robust user experience. Group names can be seeing within the App Menu selection. To facilitate testing, the "Spotify.csv" and "movie_reviews.csv" CSV files are readily available for download within the "Releases" section. Notably, our "app.ipynb" notebook acts as a graphical user interface (GUI) for the Sentiment Analyzer, allowing users to explore the app's features step by step. 
 
-This GitHub repository shows how I build my Sentiment Analyzer app step by step. This app consists of supervised and unsupervised models like TextBlob, VADER, Logistic Regression, and Support Vector Machine to predict sentiment. It also allow the user to: import, analyze, and download csv files containing sentiment and performance metrics between models.
+This is the app you want to try (app.ipynb) --> complete app for Intro to NLP class final project. No passwords required! Try this one.
+Web App password --> nlp_analyzer (if you want to try the app with password)
 
-This app was created using Google Colab, Python and Streamlit. 
-
-You can use "Spotify.csv" and "movie_reviews.csv" to test the app. You can find both of these csv files in "Releases" section for download and testing.
-
-* Web App password --> nlp_analyzer
-
-
-app.ipynb --> complete app for Intro to NLP class final project. No passwords required! Try this one.
+Important: For optimal performance and stability, I strongly recommend utilizing the "app.ipynb" Colab notebook. This choice ensures that your resources won't be constrained, in contrast to the Streamlit Cloud web app, which has the potential to experience crashes due to resource limitations. However, if you wish to explore the Streamlit Cloud app for testing purposes, simply copy and paste the following link: https://vamado09-gui---sentiment-analyzer-app-7nykrt.streamlit.app/
