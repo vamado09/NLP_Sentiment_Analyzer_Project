@@ -1,3 +1,5 @@
+# Natural Language Processing Streamlit Web Application
+
 This NLP GitHub repository presents the systematic development process of our Sentiment Analyzer app, chronicling each step taken. Our app incorporates an array of supervised and unsupervised models, including TextBlob, VADER, Logistic Regression, Support Vector Machine, Gradient Boosting, and Random Forest, offering a comprehensive sentiment prediction capability. Moreover, users can seamlessly perform tasks such as importing, analyzing, and downloading CSV files that contain sentiment data and performance metrics, fostering a robust user experience. Group names can be seeing within the App Menu selection. To facilitate testing, the "Spotify.csv" and "movie_reviews.csv" CSV files are readily available for download within the "Releases" section. Notably, our "app.ipynb" notebook acts as a graphical user interface (GUI) for the Sentiment Analyzer, allowing users to explore the app's features step by step. 
 
 This is the app you want to try (app.ipynb) --> complete app for Intro to NLP class final project. No passwords required! Try this one.
